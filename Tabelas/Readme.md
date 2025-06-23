@@ -1,4 +1,4 @@
-# Projeto Tabelas Informativas
+# Tabelas
 
 Este projeto foi desenvolvido como exercício de prática de tabelas em HTML no Instituto Federal de Santa Catarina (IFSC).
 Ele contém três páginas HTML que demonstram tabelas com diferentes tipos de dados, aplicando a estruturação semântica, organização tabular e links dentro das tabelas.
