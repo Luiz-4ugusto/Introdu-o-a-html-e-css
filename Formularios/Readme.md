@@ -1,4 +1,4 @@
-# Projeto Formulários SIGAA
+# Formularios
 
 Este projeto foi desenvolvido para prática de criação de formulários HTML básicos, incluindo diferentes tipos de campos e elementos de formulário, com estilização via CSS.
 Ele contém quatro páginas HTML, cada uma demonstrando um formulário distinto para coleta de dados variados.
