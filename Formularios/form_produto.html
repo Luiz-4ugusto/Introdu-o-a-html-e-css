@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="Style/style.css">
+    <title>SIGAA</title>
+  </head>
+  <form action="#">
+    <div>
+      <label for="name">Nome PRODUTO</label>
+      <input type="text" id="name" required />
+    </div>
+    <div>
+      <label for="DESC">DESCRIÇÃO</label>
+      <input type="text" id="DESC" required />
+    </div>
+    <div>
+      <label for="DATE">data de compra</label>
+      <input type="DATE" id="DATE" required />
+    </div>
+    <div>
+      <label for="TENTACLES">QUAN DE COPMPRAS</label>
+      <input
+        type="NUMBER"
+        id="TENTACLES"
+        name="TENTACLES"
+        min="5"
+        max="50"
+        required
+      />
+    </div>
+    <div class="button">
+      <button for="SUBMIT">ENVIAR</button>
+      <button type="reset">LIMPAR</button>
+    </div>
+  </form>
+</html>

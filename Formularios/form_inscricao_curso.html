@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>SIGAA</title>
+    <link rel="stylesheet" href="Style/style.css">
+  </head>
+  <form action="#">
+    <div>
+      <label for="name">Nome</label>
+      <input type="text" id="name" required />
+    </div>
+    <div>
+      <label for="DESC">CPF</label>
+      <input type="text" id="DESC" required max="11" min="11" />
+    </div>
+    <div>
+      <label for="DATE">data DE NASC</label>
+      <input type="DATE" id="DATE" required />
+    </div>
+    <div>
+      <label for="TEL">TELEFONE</label>
+      <input type="tel" id="TEL" required />
+    </div>
+    <div>
+      <label for="email">EMAIL</label>
+      <input type="email" id="email" required />
+    </div>
+    <div>
+      <label for="name">Nome DO CURSO</label>
+      <input type="text" id="name" required />
+    </div>
+    <div>
+      <label for="nomec">modalidade:</label><br />
+      <input type="radio" name="opcao" value="opcao" />individual
+      <input type="radio" name="opcao" value="opcao" />coletivo
+    </div>
+    <div>
+      <input type="checkbox" name="ajuda" value="aluda" />ajuda do custo
+    </div>
+    <br />
+    <div class="button">
+      <button for="SUBMIT">ENVIAR</button>
+      <button type="reset">LIMPAR</button>
+    </div>
+  </form>
+</html>
