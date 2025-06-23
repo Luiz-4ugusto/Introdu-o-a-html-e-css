@@ -1,4 +1,4 @@
-# Projeto Minhas Listas
+# Listas
 
 Este projeto foi desenvolvido como parte da disciplina de Programação WEB (PW) do Instituto Federal de Santa Catarina.  
 Ele consiste em duas páginas HTML simples, cada uma demonstrando um tipo de lista: uma **lista ordenada** e uma **lista não ordenada**. O objetivo foi praticar a estruturação semântica com HTML5.
